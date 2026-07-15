@@ -1,0 +1,14 @@
+.env
+*.keystore
+*.jks
+google-services.json
+android/.gradle/
+android/build/
+android/app/build/
+backend/.venv/
+backend/.pytest_cache/
+backend/__pycache__/
+**/__pycache__/
+.coverage
+.idea/
+.DS_Store
